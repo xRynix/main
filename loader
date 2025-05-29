@@ -2,8 +2,6 @@ local gameId = game.GameId
 
 if game.PlaceId == 10450270085 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xRynix/main/refs/heads/main/JJI'))()
-elseif game.PlaceId == 85896571713843 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/xRynix/main/refs/heads/main/BGS-INF'))()
 elseif game.PlaceId == 87700573492940 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xRynix/main/refs/heads/main/UDG'))()
 end
