@@ -1,7 +1,1 @@
-local gameId = game.GameId 
-
-if game.PlaceId == 10450270085 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/xRynix/main/refs/heads/main/JJI'))()
-elseif game.PlaceId == 87700573492940 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/xRynix/main/refs/heads/main/UDG'))()
-end
+print("yeah nvm I am too lazy for this")
